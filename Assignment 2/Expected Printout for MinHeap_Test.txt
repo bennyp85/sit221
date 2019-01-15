@@ -1,0 +1,70 @@
+:: This file displays the printout produced by the Runner based on the official solution.
+
+Performing: heap.Insert(9,9718) :: key value is 9 and data value is 9718
+Heap: [(9,9718,1)]
+
+Performing: heap.Insert(8,2432) :: key value is 8 and data value is 2432
+Heap: [(8,2432,1),(9,9718,2)]
+
+Performing: heap.Insert(7,7001) :: key value is 7 and data value is 7001
+Heap: [(7,7001,1),(9,9718,2),(8,2432,3)]
+
+Performing: heap.Insert(6,9122) :: key value is 6 and data value is 9122
+Heap: [(6,9122,1),(7,7001,2),(8,2432,3),(9,9718,4)]
+
+Performing: heap.Insert(5,4191) :: key value is 5 and data value is 4191
+Heap: [(5,4191,1),(6,9122,2),(8,2432,3),(9,9718,4),(7,7001,5)]
+
+Performing: heap.Insert(4,9537) :: key value is 4 and data value is 9537
+Heap: [(4,9537,1),(6,9122,2),(5,4191,3),(9,9718,4),(7,7001,5),(8,2432,6)]
+
+Performing: heap.Insert(3,7405) :: key value is 3 and data value is 7405
+Heap: [(3,7405,1),(6,9122,2),(4,9537,3),(9,9718,4),(7,7001,5),(8,2432,6),(5,4191,7)]
+
+Performing: heap.Insert(2,6495) :: key value is 2 and data value is 6495
+Heap: [(2,6495,1),(3,7405,2),(4,9537,3),(6,9122,4),(7,7001,5),(8,2432,6),(5,4191,7),(9,9718,8)]
+
+Performing: heap.Insert(1,4142) :: key value is 1 and data value is 4142
+Heap: [(1,4142,1),(2,6495,2),(4,9537,3),(3,7405,4),(7,7001,5),(8,2432,6),(5,4191,7),(9,9718,8),(6,9122,9)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (1,4142)
+Heap: [(2,6495,1),(3,7405,2),(4,9537,3),(6,9122,4),(7,7001,5),(8,2432,6),(5,4191,7),(9,9718,8)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (2,6495)
+Heap: [(3,7405,1),(6,9122,2),(4,9537,3),(9,9718,4),(7,7001,5),(8,2432,6),(5,4191,7)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (3,7405)
+Heap: [(4,9537,1),(6,9122,2),(5,4191,3),(9,9718,4),(7,7001,5),(8,2432,6)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (4,9537)
+Heap: [(5,4191,1),(6,9122,2),(8,2432,3),(9,9718,4),(7,7001,5)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (5,4191)
+Heap: [(6,9122,1),(7,7001,2),(8,2432,3),(9,9718,4)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (6,9122)
+Heap: [(7,7001,1),(9,9718,2),(8,2432,3)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (7,7001)
+Heap: [(8,2432,1),(9,9718,2)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (8,2432)
+Heap: [(9,9718,1)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (9,9718)
+Heap: []
+
+Performing:heap.BuildHeap(keys, data) :: key values are [9,8,7,6,5,4,3,2,1] and data values are [9718,2432,7001,9122,4191,9537,7405,6495,4142]
+Heap: [(1,4142,1),(2,6495,2),(3,7405,3),(6,9122,4),(5,4191,5),(4,9537,6),(7,7001,7),(8,2432,8),(9,9718,9)]
+
+Performing: heap.DeleteMin() :: key-data pair of the deleted element is (1,4142)
+Heap: [(2,6495,1),(5,4191,2),(3,7405,3),(6,9122,4),(9,9718,5),(4,9537,6),(7,7001,7),(8,2432,8)]
+
+Performing value change:: for the element with key 9 new data value is 0
+Performing value change:: for the element with key 2 new data value is 777
+Performing value change:: for the element with key 1 new data value is -1 (not in the heap anymore)
+Heap: [(2,777,1),(5,4191,2),(3,7405,3),(6,9122,4),(9,0,5),(4,9537,6),(7,7001,7),(8,2432,8)]
+
+Performing key decreasing:: for the element with key 9 new key value must be 0
+Heap: [(0,0,1),(2,777,2),(3,7405,3),(6,9122,4),(5,4191,5),(4,9537,6),(7,7001,7),(8,2432,8)]
+

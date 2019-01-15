@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting_Algorithms", "Sorting_Algorithms\Sorting_Algorithms.csproj", "{FB51A102-E12D-467A-A0A3-679BA3D745FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Structures", "Data_Structures\Data_Structures.csproj", "{D18AF03E-7C45-458F-ABA8-BB74B1EFA629}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching_Algorithms", "Searching_Algorithms\Searching_Algorithms.csproj", "{63F05D61-674D-4461-9BFE-208DFC241980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Play_Code", "Play_Code\Play_Code.csproj", "{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB51A102-E12D-467A-A0A3-679BA3D745FF}.Debug|x86.ActiveCfg = Debug|x86
+		{FB51A102-E12D-467A-A0A3-679BA3D745FF}.Debug|x86.Build.0 = Debug|x86
+		{FB51A102-E12D-467A-A0A3-679BA3D745FF}.Release|x86.ActiveCfg = Release|x86
+		{FB51A102-E12D-467A-A0A3-679BA3D745FF}.Release|x86.Build.0 = Release|x86
+		{D18AF03E-7C45-458F-ABA8-BB74B1EFA629}.Debug|x86.ActiveCfg = Debug|x86
+		{D18AF03E-7C45-458F-ABA8-BB74B1EFA629}.Debug|x86.Build.0 = Debug|x86
+		{D18AF03E-7C45-458F-ABA8-BB74B1EFA629}.Release|x86.ActiveCfg = Release|x86
+		{D18AF03E-7C45-458F-ABA8-BB74B1EFA629}.Release|x86.Build.0 = Release|x86
+		{63F05D61-674D-4461-9BFE-208DFC241980}.Debug|x86.ActiveCfg = Debug|x86
+		{63F05D61-674D-4461-9BFE-208DFC241980}.Debug|x86.Build.0 = Debug|x86
+		{63F05D61-674D-4461-9BFE-208DFC241980}.Release|x86.ActiveCfg = Release|x86
+		{63F05D61-674D-4461-9BFE-208DFC241980}.Release|x86.Build.0 = Release|x86
+		{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}.Debug|x86.ActiveCfg = Debug|x86
+		{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}.Debug|x86.Build.0 = Debug|x86
+		{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}.Release|x86.ActiveCfg = Release|x86
+		{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{87EE3439-15D7-40C4-A037-B3CDC40D3B0D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sorting_Algorithms/Program.cs">
+    <Files>
+      <File FileName="Sorting_Algorithms/Program.cs" Line="1" Column="1" />
+      <File FileName="Sorting_Algorithms/BubbleSort.cs" Line="6" Column="6" />
+      <File FileName="Sorting_Algorithms/InsertionSort.cs" Line="1" Column="14" />
+      <File FileName="Sorting_Algorithms/SelectionSort.cs" Line="39" Column="2" />
+      <File FileName="Sorting_Algorithms/MergeSort.cs" Line="11" Column="1" />
+      <File FileName="Searching_Algorithms/Recursive.cs" Line="1" Column="1" />
+      <File FileName="Searching_Algorithms/Program.cs" Line="1" Column="1" />
+      <File FileName="Searching_Algorithms/Sublist.cs" Line="7" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Play__Code PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Data__Structures FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Searching__Algorithms FirstBuild="True" />
+</Properties>

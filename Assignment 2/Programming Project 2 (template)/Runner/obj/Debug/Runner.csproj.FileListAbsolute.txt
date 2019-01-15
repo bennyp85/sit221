@@ -1,0 +1,139 @@
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/bin/Debug/Runner.exe.config
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/bin/Debug/Runner.exe
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/bin/Debug/Runner.pdb
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/bin/Debug/DataStructures_Algorithms.dll
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/bin/Debug/DataStructures_Algorithms.pdb
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/obj/Debug/Runner.exe
+c:/Users/mabdel/Documents/Visual Studio 2015/Projects/SIT221/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 1 (template)/Practical Task 1 (template)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 1 (template)/Practical Task 1 (template)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 1 (template)/Practical Task 1 (template)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 2 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 2 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 2 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 2 (solution and checker)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Practical Task 3 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.exe
+//homes.deakin.edu.au/sergeyp/UserData/Desktop/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 1 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/Runner.exe.config
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/obj/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/obj/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.dll
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Assignment 2 (solution and checker)/Runner/bin/Debug/DataStructures_Algorithms.xml
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe.config
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/bin/Debug/Runner.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/obj/Debug/Runner.exe
+C:/teaching/SIT221 Lecture Notes/Projects/Programming Project 2 (template)/Runner/obj/Debug/Runner.pdb
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe.config
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.pdb
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.csprojAssemblyReference.cache
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.csproj.CoreCompileInputs.cache
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.csproj.CopyComplete
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.exe
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.pdb
+C:/Users/nainu/Downloads/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.xml
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe.config
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/Runner.pdb
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.xml
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.csproj.CoreCompileInputs.cache
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.exe
+/Users/ben/Downloads/812045 - C# Programming/Solution/2668256_452885606_ProgrammingProject2template/Programming Project 2 (template)/Runner/obj/Debug/Runner.pdb
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe.config
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.pdb
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.xml
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.csproj.CoreCompileInputs.cache
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.exe
+/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.pdb
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe.config
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.exe
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/Runner.pdb
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.dll
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.pdb
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/bin/Debug/DataStructures_Algorithms.xml
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.csprojResolveAssemblyReference.cache
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.csproj.CoreCompileInputs.cache
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.exe
+/home/ben/googledrive/Deakin Units/2018/T2/SIT221 Data Structures & Algorithms/Assignment 2/Programming Project 2 (template)/Runner/obj/Debug/Runner.pdb
