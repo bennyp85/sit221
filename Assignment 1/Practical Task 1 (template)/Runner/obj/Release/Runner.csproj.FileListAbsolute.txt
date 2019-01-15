@@ -1,8 +1,0 @@
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\bin\Release\Runner.exe.config
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\bin\Release\Runner.exe
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\bin\Release\Runner.pdb
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\bin\Release\DataStructures_Algorithms.dll
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\bin\Release\DataStructures_Algorithms.pdb
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\obj\Release\Runner.csprojResolveAssemblyReference.cache
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\obj\Release\Runner.exe
-\\homes.deakin.edu.au\sergeyp\UserData\Desktop\SIT221\Runner\obj\Release\Runner.pdb
