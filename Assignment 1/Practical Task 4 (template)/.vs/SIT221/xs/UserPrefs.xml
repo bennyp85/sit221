@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{65B1B259-11C3-4D52-8EB0-942228907D76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataStructures_Algorithms/Week04/ListEnumerator.cs">
+    <Files>
+      <File FileName="DataStructures_Algorithms/Week04/Node.cs" Line="28" Column="1" />
+      <File FileName="DataStructures_Algorithms/Week04/DoubleLinkedList.cs" Line="152" Column="13" />
+      <File FileName="Runner/Runner04_Task1.cs" Line="23" Column="1" />
+      <File FileName="DataStructures_Algorithms/Week04/ListEnumerator.cs" Line="31" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ben/Google Drive/Deakin Units/2018/T2/SIT221 Data Structures &amp; Algorithms/Practical Tasks/Practical Task 4 (template)/Runner/Runner04_Task1.cs" relfile="Runner/Runner04_Task1.cs" line="20" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Runner PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
